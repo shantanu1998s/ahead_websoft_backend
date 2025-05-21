@@ -1,6 +1,6 @@
 # Global
 node_modules/
-.env
+.
 .DS_Store
 *.log
 npm-debug.log*
@@ -26,6 +26,7 @@ frontend/.eslintcache
 
 # Node.js specific (backend/)
 backend/node_modules/
+backend/.env
 backend/dist/
 backend/coverage/
 backend/.cache
