@@ -26,7 +26,6 @@ frontend/.eslintcache
 
 # Node.js specific (backend/)
 backend/node_modules/
-backend/.env
 backend/dist/
 backend/coverage/
 backend/.cache
